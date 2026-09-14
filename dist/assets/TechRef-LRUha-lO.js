@@ -1,4 +1,4 @@
-import{r as b,j as a}from"./react-DyHMKhAQ.js";import{T as i,t as e}from"./index-PMi3i2rr.js";import{T as c}from"./TreeRef-BCoZws2Q.js";import"./radix-B9GY7zd5.js";import"./vendor-Bcd5AAWi.js";import"./data-DyK8EU5O.js";const p=`
+import{r as b,j as a}from"./react-DyHMKhAQ.js";import{T as i,t as e}from"./index-BI3KR5K2.js";import{T as c}from"./TreeRef-CUBprEkq.js";import"./radix-B9GY7zd5.js";import"./vendor-Bcd5AAWi.js";import"./data-DyK8EU5O.js";const p=`
 <div class="card">
 <h2>Справочник технолога</h2>
 <p class="sub">Справочник по теории и практике обработки резанием: обозначения, режимы, геометрия инструмента, обрабатываемость материалов, износ и формулы.</p>
