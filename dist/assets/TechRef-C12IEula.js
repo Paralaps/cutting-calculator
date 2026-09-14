@@ -1,4 +1,4 @@
-import{r as b,j as a}from"./react-DyHMKhAQ.js";import{T as i,t as e}from"./index-CdOBOcbm.js";import{T as c}from"./TreeRef-C-O4GawI.js";import"./radix-B9GY7zd5.js";import"./vendor-Bcd5AAWi.js";import"./data-DyK8EU5O.js";const p=`
+import{r as b,j as a}from"./react-DyHMKhAQ.js";import{T as i,t as e}from"./index-cdBcveG2.js";import{T as c}from"./TreeRef-IsUXuhyb.js";import"./radix-B9GY7zd5.js";import"./vendor-Bcd5AAWi.js";import"./data-DyK8EU5O.js";const p=`
 <div class="card">
 <h2>Справочник технолога</h2>
 <p class="sub">Справочник по теории и практике обработки резанием: обозначения, режимы, геометрия инструмента, обрабатываемость материалов, износ и формулы.</p>
@@ -1299,7 +1299,7 @@ import{r as b,j as a}from"./react-DyHMKhAQ.js";import{T as i,t as e}from"./index
 <tr><td>Титан и никелевые сплавы (< 320 HB)</td><td>2—8</td><td>2—8</td><td>6—11</td></tr>
 </tbody>
 </table></div>
-<p class="hb-note">Покрытые метчики допускают повышение скорости до 50 %. Источник: Guhring, таблица рекомендаций для метчиков. Подача равна шагу резьбы: f = P мм/об, минутная подача = n · P; Vc = π · D · n / 1000.</p>
+<p class="hb-note">Покрытые метчики допускают повышение скорости до 50 %. Источник: Guhring, таблица рекомендаций для метчиков. Закалённые стали: обычными метчиками резьбу не нарезают, но специальные метчики из HSS-E для закалённых сталей работают — по каталогу Vargus VARDEX V-Taps при 45—50 HRC это 5—10 м/мин, при 51—60 HRC — 3—5 м/мин; выше берут CBN-резец, твёрдосплавную фрезу или шлифование. Подача равна шагу резьбы: f = P мм/об, минутная подача = n · P; Vc = π · D · n / 1000.</p>
 
 <p><b>Типы метчиков и заборная часть</b></p>
 <div class="hb-table"><table>
