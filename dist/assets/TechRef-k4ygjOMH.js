@@ -1,4 +1,4 @@
-import{r as b,j as a}from"./react-DyHMKhAQ.js";import{T as i,t as e}from"./index-t2voPErH.js";import{T as c}from"./TreeRef-CCthXdk6.js";import"./radix-B9GY7zd5.js";import"./vendor-Bcd5AAWi.js";import"./data-DyK8EU5O.js";const p=`
+import{r as b,j as a}from"./react-DyHMKhAQ.js";import{T as i,t as e}from"./index-BZ6SxEZi.js";import{T as c}from"./TreeRef-BWAd8l3r.js";import"./radix-B9GY7zd5.js";import"./vendor-Bcd5AAWi.js";import"./data-DyK8EU5O.js";const p=`
 <div class="card">
 <h2>Справочник технолога</h2>
 <p class="sub">Справочник по теории и практике обработки резанием: обозначения, режимы, геометрия инструмента, обрабатываемость материалов, износ и формулы.</p>
@@ -789,6 +789,7 @@ import{r as b,j as a}from"./react-DyHMKhAQ.js";import{T as i,t as e}from"./index
 <li><b>Профильное</b> — фасонные поверхности.</li>
 </ul>
 
+<div class="hb-note"><b>Подбор корпусных фрез со сменными пластинами</b> — категория, диапазон диаметров, главный угол в плане, максимальная глубина резания, число зубьев и применяемые пластины — в базе аналогов: <a class="hb-go" href="#panel-grades" data-goto-tab="grades" data-goto-params="amode=mills">«Корпусные фрезы» →</a>. В справочнике эти таблицы не дублируются.</div>
 <h4>4.2 Попутное и встречное фрезерование</h4>
 <ul>
 <li><b>Попутное</b> (подача по направлению вращения): стружка от толстой к тонкой, меньше трение и износ, лучше шероховатость, меньше наклёп. Требует жёсткого станка без люфта в передаче подачи.</li>
@@ -1046,6 +1047,7 @@ import{r as b,j as a}from"./react-DyHMKhAQ.js";import{T as i,t as e}from"./index
 <li>Перед входом в пилот скорость понижают до 20—30 м/мин, останавливаются за 1—3 мм до дна, затем выходят на рабочую скорость.</li>
 </ul>
 
+<div class="hb-note"><b>Подбор корпусных свёрл и сверлильных головок со сменными пластинами</b> — диапазон диаметров, отношение L/D, применяемые пластины и головки, подвод СОЖ — в базе аналогов: <a class="hb-go" href="#panel-grades" data-goto-tab="grades" data-goto-params="amode=drills">«Корпусные свёрла» →</a>. Монолитный твёрдосплавный инструмент в эту базу не входит (см. п. 5.13).</div>
 <h4>5.14 Вход и выход сверла</h4>
 <p>Наклонная поверхность на входе и выходе резко меняет нагрузку на кромку: сверло «ищет» опору и уводит.</p>
 <div class="hb-table"><table><thead><tr><th>Наклон входа</th><th>Подача</th><th>Наклон выхода</th><th>Подача</th></tr></thead><tbody>
