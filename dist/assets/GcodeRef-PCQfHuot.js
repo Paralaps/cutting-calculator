@@ -1,4 +1,4 @@
-import{j as t}from"./react-DyHMKhAQ.js";import{T as d}from"./TreeRef-C4znvWfA.js";import"./index-BSJIeAJt.js";import"./radix-B9GY7zd5.js";import"./vendor-Bcd5AAWi.js";import"./data-DyK8EU5O.js";const r=`
+import{j as t}from"./react-DyHMKhAQ.js";import{T as d}from"./TreeRef-BERbcVy5.js";import"./index-Cxgt1jCJ.js";import"./radix-B9GY7zd5.js";import"./vendor-Bcd5AAWi.js";import"./data-DyK8EU5O.js";const r=`
 <div class="card">
 <h2>Справочник G-код</h2>
 <p class="sub">Основные G-коды станков с ЧПУ, полные списки кодов Fanuc и Sinumerik с пояснениями и примерами.</p>
