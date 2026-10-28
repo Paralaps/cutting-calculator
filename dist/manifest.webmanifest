@@ -1,0 +1,20 @@
+{
+  "name": "Помощник технолога машиностроения",
+  "short_name": "Технолог",
+  "description": "Калькулятор режимов резания и справочники для машиностроения: фрезерование, точение, сверление, резьбообработка, материалы, аналоги инструмента, ГОСТы.",
+  "lang": "ru",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["standalone", "minimal-ui"],
+  "orientation": "any",
+  "background_color": "#0b0b0c",
+  "theme_color": "#0b0b0c",
+  "icons": [
+    { "src": "./logo/pwa/pwa-192x192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "./logo/pwa/pwa-512x512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "./logo/pwa/maskable-icon-192x192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "./logo/pwa/maskable-icon-512x512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
